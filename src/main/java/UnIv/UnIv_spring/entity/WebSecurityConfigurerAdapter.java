@@ -1,4 +1,4 @@
-package UnIv.UnIv_spring.model;
+package UnIv.UnIv_spring.entity;
 
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;
 
