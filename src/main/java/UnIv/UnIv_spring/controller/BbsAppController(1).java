@@ -1,4 +1,4 @@
-package UnIv.UnIv_spring.controller;
+/*package UnIv.UnIv_spring.controller;
 
 import UnIv.UnIv_spring.entity.BbsApp;
 import UnIv.UnIv_spring.entity.BbsHw;
@@ -20,7 +20,7 @@ public class BbsAppController {
         this.bbsHwRepository = bbsHwRepository;
     }
 
-    @PostMapping("/bbsApp")
+    @PostMapping("/api/bbsApp")
     public void createBbsApp(@RequestBody String busNum) {
         // 버스 번호를 받아와서 BbsApp 객체 생성
         BbsHw bbsHw = bbsHwRepository.findByBusNum(busNum); // 예시: BbsHw 엔티티에서 busNum으로 조회하는 메서드 활용
@@ -29,4 +29,4 @@ public class BbsAppController {
         // 생성한 BbsApp 객체를 데이터베이스에 저장
         bbsAppRepository.save(bbsApp);
     }
-}
+}*/

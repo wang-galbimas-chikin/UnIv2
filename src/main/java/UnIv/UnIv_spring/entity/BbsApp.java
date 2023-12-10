@@ -1,3 +1,4 @@
+/*
 // BbsApp 엔티티 클래스
 package UnIv.UnIv_spring.entity;
 
@@ -48,4 +49,4 @@ public class BbsApp {
     public void setBbsHw(BbsHw bbsHw) {
         this.bbsHw = bbsHw;
     }
-}
+}*/
