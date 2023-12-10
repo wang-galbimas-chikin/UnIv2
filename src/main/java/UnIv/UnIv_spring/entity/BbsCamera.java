@@ -1,8 +1,8 @@
+/*
 // BbsCamera 엔티티 클래스
 package UnIv.UnIv_spring.entity;
 
 import jakarta.persistence.*;
-
 @Entity
 public class BbsCamera {
     @Id
@@ -46,4 +46,4 @@ public class BbsCamera {
     public void setPlateNo(String plateNo) {
         this.plateNo = plateNo;
     }
-}
+}*/

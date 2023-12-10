@@ -1,4 +1,4 @@
-package UnIv.UnIv_spring;
+/*package UnIv.UnIv_spring;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -29,4 +29,4 @@ public class Message {
     public void setContent(String content) {
         this.content = content;
     }
-}
+}*/
